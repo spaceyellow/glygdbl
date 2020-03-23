@@ -87,7 +87,7 @@
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="http://beian.miit.gov.cn/">滇ICP备19000788号</a>
                 </div>
             </div>
         </div>
