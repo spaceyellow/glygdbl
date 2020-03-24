@@ -88,8 +88,8 @@
 
                 <div class="links">
                     <a href="http://www.mnwang.fun/">Mnwang.Fun</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
+                    <a href="#">GLYGDBL</a>
+                    <a href="http://47.107.102.175/">Funny</a>
                     <a href="https://github.com/spaceyellow">SpaceYellow</a>
                     <a href="http://beian.miit.gov.cn/" class="chinese">滇ICP备19000788号</a>
                 </div>
