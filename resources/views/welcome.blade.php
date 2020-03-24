@@ -62,6 +62,10 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .chinese {
+                font-family: "Microsoft YaHei",微软雅黑;
+            }
         </style>
     </head>
     <body>
@@ -79,15 +83,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    GLYGDBL
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
+                    <a href="http://www.mnwang.fun/">Mnwang.Fun</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="http://beian.miit.gov.cn/">滇ICP备19000788号</a>
+                    <a href="https://github.com/spaceyellow">SpaceYellow</a>
+                    <a href="http://beian.miit.gov.cn/" class="chinese">滇ICP备19000788号</a>
                 </div>
             </div>
         </div>
